@@ -1,5 +1,22 @@
 # STL files for 1/16 RC VK-16.02 Leopard
 
+## Required non-printable parts
+
+Electronics:
+
+* Gearboxes long shaft
+
+From Heng Long 3879 Panther or 3869 Jagdpanther:
+
+* 2  x sprocket drive wheels.
+* 2  x idler wheels.
+* 10 x wheel arms.
+* 10 x wheel arm springs.
+* 10 x wheel bolt cover (optional).
+* 6  x double wheels.
+* 4  x single wheels.
+* 2  x tracks (each one reduced to 67 links).
+
 ## Bibliography and documentation
 
 Primary source:
