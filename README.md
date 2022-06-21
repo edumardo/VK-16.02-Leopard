@@ -39,7 +39,7 @@ And the all parts STL files:
 1. [hull - all parts.stl](hull/hull%20-%20all%20parts.stl)
 2. [suspension - all parts.stl](suspension/suspension%20-%20all%20parts.stl)
 3. [rear stuff - all parts.stl](rear%20stuff/rear%20stuff%20-%20all%20parts.sql.stl)
-4. [VK16.02 Leopard - all parts.stl](VK16.02%20Leopard.stl) (entire model)
+4. [VK16.02 Leopard - all parts.stl](VK16.02%20Leopard%20-%20all%20parts.stl) (entire model)
 
 Additionally, you can follow the model development and construction on the following forums:
 
