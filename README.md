@@ -1,17 +1,20 @@
 # STL files for 1/16 RC VK-16.02 Leopard
 
-With this files you can 3D print and build a VK-16.02 Leopard tank.
+With this files you can 3D print and build a RC VK-16.02 Leopard tank.
 
 ## Required non-printable parts
 
 Electronics:
 
 * Gearboxes long shaft.
-* 1 x Continuos rotation servo.
+* 1 x Continuous rotation servo for turret rotating, like DM-S0090D.
+* 2 x servos for recoil system and elevation, like MG90S.
 
 Hardware:
 
-* 10 x 5mmx2mm round neodymium magnets.
+* 14 x 5mmx2mm round neodymium magnets.
+* 2  x M2x5mm screws.
+* 8  x M2x8mm screws.
 
 From Heng Long 3879 Panther or 3869 Jagdpanther:
 
@@ -34,6 +37,7 @@ Follw the assembly documents, preferably in order:
 2. [Suspension assembly](suspension/suspension%20assembly.pdf)
 3. [Rear stuff assembly](rear%20stuff/rear%20stuff%20assembly.pdf)
 4. [Upper hull assembly](upper%20hull/upper%20hul%20assembly.pdf)
+5. [Turret assembly](turret/turret%20assembly.pdf)
 
 And the all parts STL files:
 
@@ -41,7 +45,10 @@ And the all parts STL files:
 2. [suspension - all parts.stl](suspension/suspension%20-%20all%20parts.stl)
 3. [rear stuff - all parts.stl](rear%20stuff/rear%20stuff%20-%20all%20parts.sql.stl)
 4. [upper hull - all parts.stl](upper%20hull/upper%20hull%20-%20all%20parts.stl)
-5. [VK16.02 Leopard - all parts.stl](VK16.02%20Leopard%20-%20all%20parts.stl) (entire model)
+5. [turret - all parts.stl](turret/turret%20-%20all%20parts.stl)
+6. [VK16.02 Leopard - all parts.stl](VK16.02%20Leopard%20-%20all%20parts.stl) (entire model)
+
+You can check the `all-parts` files and ungroup it to get the individual files with tools like 3D Builder or Meshmixer. Then, combine them if you want.
 
 Additionally, you can follow the model development and construction on the following forums:
 
@@ -62,8 +69,3 @@ Secondary sources:
 * Panzer Tracts No. 09-3 - Jagdpanther Panzerjaeger Panther (8.8 cm) (Sd.Kfz.173) Ausf.G 1 und G2
 
 All books by Thomas L. Jentz and Hilary Louis Doyle.
-
-## Development and construction
-
-* Topic on [RCTankWarfare forum](https://www.rctankwarfare.co.uk/forums/viewtopic.php?f=23&t=32358) (english).
-* Hilo en el foro [La Cadena Herrumbrosa](https://lacadenaherrumbrosa.foroactivo.com/t251-vk-16-02-leopard) (español).
