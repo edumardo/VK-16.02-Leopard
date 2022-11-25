@@ -28,6 +28,7 @@ From Heng Long 3879 Panther or 3869 Jagdpanther:
 * 6  x double wheels.
 * 4  x single wheels.
 * 2  x tracks (each one reduced to 67 links).
+* 1  x rotating ring, the big one.
 
 ## How to build
 
