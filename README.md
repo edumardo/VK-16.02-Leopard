@@ -1,13 +1,15 @@
 # STL files for 1/16 RC VK-16.02 Leopard
 
-With this files you can 3D print and build a RC VK-16.02 Leopard tank.
+With this files you can 3D print and build a RC VK-16.02 Leopard tank. The Leopard was a German prototype of light reconnaissance tank, finally canceled and none was built.
 
 ## Required non-printable parts
 
 Electronics:
 
 * Gearboxes long shaft.
-* 1 x Continuous rotation servo for turret rotating, like DM-S0090D.
+* For turret rotation, you can choose one:
+  * 1 x Continuous rotation servo, like DM-S0090D.
+  * 1 x Standard Heng Long motor unit.
 * 2 x servos for recoil system and elevation, like MG90S.
 
 Hardware:
