@@ -1,6 +1,6 @@
 # STL files for 1/16 RC VK-16.02 Leopard
 
-With this files you can 3D print and build a RC VK-16.02 Leopard tank. The Leopard was a German prototype of light reconnaissance tank, finally canceled and none was built.
+With this files you can 3D print and build a RC VK-16.02 Leopard tank. The [Leopard](https://en.wikipedia.org/wiki/VK_16.02_Leopard) was a German prototype of light reconnaissance tank, finally canceled and none was built.
 
 ## Required non-printable parts
 
